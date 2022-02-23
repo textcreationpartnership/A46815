@@ -1,0 +1,485 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cain's mark and murder, K. Charls the I his martyrdom delivered in a sermon on January the thirtieth / by David Jenner, B.D. ...</title>
+            <author>Jenner, David, d. 1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46815</idno>
+            <idno type="STC">Wing J659</idno>
+            <idno type="STC">ESTC R16585</idno>
+            <idno type="EEBO-CITATION">11855054</idno>
+            <idno type="OCLC">ocm 11855054</idno>
+            <idno type="VID">49966</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49966)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 498:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cain's mark and murder, K. Charls the I his martyrdom delivered in a sermon on January the thirtieth / by David Jenner, B.D. ...</title>
+                  <author>Jenner, David, d. 1691.</author>
+               </titleStmt>
+               <extent>[8], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.R. for John Williams ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Sermons.</term>
+               <term>Church of England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49966:1" rendition="simple:additions"/>
+            <p>Cain's Mark AND MURDER K. Charls the I. HIS MARTYRDOM Delivered in A SERMON ON <hi>January</hi> the Thirtieth.</p>
+            <p>BY <hi>David Jenner,</hi> B. D. Prebendary of <hi>Sarum.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. R.</hi> for <hi>John Williams</hi> at the Sign of the Crown in St. <hi>Paul</hi>'s Church-Yard. 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49966:2"/>
+            <pb facs="tcp:49966:2"/>
+            <head>To the Honourable MARMADUKE DARCY, Brother to the Right Honourable COGNIERS DARCY Lord <hi>DARCY</hi> and <hi>MENIL.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe following Diſcourſe, being Clad in a mean Country Dreſs, and wanting the uſual Ornaments of this Learned Age; High Strains of Oratory and Eloquence, and the brave Flouriſhes of Rhetorick, was never by me thought Worthy of an <hi>Imprimatur.</hi> But ſuch has been the Importunity of ſome, and the Arguments of others; pretending the Publica<g ref="char:EOLhyphen"/>tion thereof may tend to the Publick good, that is, to the Confirmation of ſome in their Loyal<g ref="char:EOLhyphen"/>ty, and to the Reducing of others from their Diſobedience (which indeed ought to be, the
+<pb facs="tcp:49966:3"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, only Deſign of all our Endeavors,) as that, at laſt it has free leave to Walk abroad; and if it meets with any that are diſ<g ref="char:EOLhyphen"/>affected to the Preſent Government; I only re<g ref="char:EOLhyphen"/>queſt, They would firſt Candidly peruſe it, be<g ref="char:EOLhyphen"/>fore they Cenſoriouſly Condemn it: As for all others, I doubt not but their Charity will eaſt a Veil over all its <hi>Errata</hi>'s.</p>
+            <p>And as for the reaſon of its Dedication unto your Honour, it is double.</p>
+            <p>
+               <hi>Firſt,</hi> Your High and <g ref="char:V">Ʋ</g>ndeſerved Favours beſtowed upon my ſelf:</p>
+            <p>
+               <hi>Secondly,</hi> Your Eminent and Conſtant <hi>Loyalty,</hi> not only to His Preſent, but alſo to His Late <hi>Majeſty</hi> of Ever Bleſſed Me<g ref="char:EOLhyphen"/>mory.</p>
+            <p>For it is well known, that you did not only make it your <hi>Duty,</hi> but your <hi>Delight</hi> (which is your Glory) to Serve His Late <hi>Majeſty</hi>
+               <pb facs="tcp:49966:3"/>in the Extremity of His Misfortunes: And you were ever found (in the very Front) among thoſe many <hi>Heroes</hi> and <hi>Worthies,</hi> which Fought and Suffered for Him.</p>
+            <p>And truly, were I not aſſured that your Mo<g ref="char:EOLhyphen"/>deſty had rather your own Works, than my Pen ſhould expreſs your High and Great Merits, I could eaſily enlarge this ſhort Epiſtle into a Vo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me. And willingly Expatiate in your due Praiſes, for venturing your Life and Fortunes in the Service of that Glorious Martyr <hi>King CHARLES</hi> the <hi>I.</hi> Who was a <hi>Good Man;</hi> in <hi>Ariſtotle</hi>'s ſtricteſt Definition, <hi>i. e.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> Having in Him an happy Connexion of all the Virtues <hi>(Gradu Heroico)</hi> in the higheſt Degree.</p>
+            <p>And here, I cannot but admire, and be a<g ref="char:EOLhyphen"/>ſtoniſhed, to read, that <hi>ANTONIUS TRIUMVIR,</hi> a <hi>Roman</hi> Heathen ſhould have ſuch an High Valuation for
+<pb facs="tcp:49966:4"/>
+               <hi>Varro</hi>'s Learning; as, after Semence, to par<g ref="char:EOLhyphen"/>don Him and Subſcribe</p>
+            <q>Vivat Varro, Vir Doctiſſimus.</q>
+            <p>And that the moſt Exemplary <hi>Piety,</hi> the <g ref="char:V">Ʋ</g>niverſal <hi>Learning,</hi> and the wonderful <hi>Ac<g ref="char:EOLhyphen"/>quirements</hi> of our Ever Bleſſed <hi>Soveraign CHARLES</hi> the <hi>I.</hi> ſhould not have the leaſt Influence upon the Minds of his <hi>Mur<g ref="char:EOLhyphen"/>therers,</hi> and ſhould not have cauſed them to Retreive their own <g ref="char:V">Ʋ</g>njuſt Sentence of Death, which they moſt <hi>Barbarouſly</hi> had paſsed upon him; nor at laſt prevail with them to Subſcribe.</p>
+            <q>Vivat Rex, Vir Doctiſſimus, &amp; Pientiſſimus.</q>
+            <p>But the All-wiſe God deſigned a better Life, and a more Glorious Kingdom for <hi>His Ma<g ref="char:EOLhyphen"/>jeſty;</hi> and therefore he permitted them to open the Cage and Tabernacle of his Body, that ſo his Immortal <hi>Soul</hi> might the ſooner take Wing,
+<pb facs="tcp:49966:4"/>and fly up unto the higher Regions of endleſs happineſs; and there take Poſſeſsion of that In<g ref="char:EOLhyphen"/>corruptible Crown of Glory, which the <hi>Holy JESUS</hi> (who was gon before) had prepared for Him.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>nto which place of Eternal Bliſs, that your <hi>Honour,</hi> and all thoſe, who have faithfully ſerved their <hi>Prince</hi> and <hi>Country;</hi> May in due time, arrive, ſhall be the conſtant and daily Prayer of him, who is,</p>
+            <closer>
+               <salute>Noble Sir,</salute> 
+               <signed>Your Moſt Humble Servant DAVID JENNER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49966:5"/>
+            <pb n="1" facs="tcp:49966:5"/>
+            <head>Cain's Mark.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Geneſis 4.15.</hi>
+                  </bibl>
+                  <p>The Lord ſet a Mark upon <hi>Cain,</hi> &amp;c.</p>
+               </q>
+            </epigraph>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>January</hi> the Thirtieth.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE <hi>Day</hi> and the <hi>Text</hi> are (I hope) perti<g ref="char:EOLhyphen"/>nently, though (I am ſure) unhappi<g ref="char:EOLhyphen"/>ly met together; They making a ſad and lamentable Report of a double <hi>Murder.</hi> The one committed upon the Perſon of Innocent <hi>Abel,</hi> the other upon the Sacred Majeſty of King <hi>Charles</hi> the Firſt of ever happy Memory. And you have the Authors of both deſervedly <hi>Marked</hi> and <hi>Branded</hi> for the ſame: The <hi>one</hi> by the Hand of Juſtice, <hi>as in the Day:</hi> The <hi>other</hi> by God himſelf, <hi>as in the Text. The Lord ſet a Mark upon</hi> Cain, <hi>&amp;c.</hi>
+            </p>
+            <p>For Methods ſake we ſhall begin Firſt with the <hi>Text,</hi> and then Conclude with the Occaſion and Matter of the <hi>Day.</hi> As for the Text, <hi>The Lord ſet a Mark upon</hi> Cain, &amp;c.</p>
+            <p>It is neceſſary we Inquire,</p>
+            <list>
+               <item>Firſt, <hi>Into the Occaſion</hi> of theſe Words.</item>
+               <item>Secondly, <hi>What was this Mark.</hi>
+               </item>
+               <item>Thirdly, <hi>What ſhould be the End and purpoſe of it.</hi>
+               </item>
+               <item>Laſtly, <hi>The Improvement of the whole.</hi>
+               </item>
+            </list>
+            <p n="1">1. <hi>As to the Occaſion of theſe Words.</hi>
+               <note place="margin">Vid. St. <hi>Aug.</hi> civ. Del. <hi>l.</hi> 15. <hi>c.</hi> 7, 8.</note> It was <hi>Cain</hi>'s Barbarous and Malicious Murthering of his Deareſt and only Brother <hi>Abel:</hi> And his juſt fear of Gods Vengeance attending that his
+<pb n="2" facs="tcp:49966:6"/>Crime: He was in a Panick Fear and Dread, leaſt his Fellow Creatures ſhould become his Executioners, and Re<g ref="char:EOLhyphen"/>venge his Brothers Death; eſpecially, ſeeing the chiefeſt (if not the only) provocation he had for this his unheard of Fratricide, was nothing elſe but his own inveterate emulation, and Serpentine Hatred, ariſing only from Gods Approbation of his Brothers Offering, rather than of his. For God was infinitely better pleaſed with <hi>Abels</hi> Oblation being accompanyed with honeſt ſimplicity, and ſincere Heartedneſs, than with <hi>Cain</hi>'s, notwithſtanding all his pompous ſhows, and ſpecious pretences of deep Devotion. And here by the way, we cannot but take notice, how much <hi>Eva</hi> was deceived and diſappointed in her Expecta<g ref="char:EOLhyphen"/>tions, (a ſufficient Argument of Humane Frailty:) For after her Fall, God having bleſſed the Conception of her Womb, and having Enriched her with a Son, She preſent<g ref="char:EOLhyphen"/>ly (<hi>Jonas</hi>-like) ſondly ſets her heart and affections upon him, and Names this her Firſt-born (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Cain,</hi> that is, <hi>Poſſeſſion</hi> and <hi>Fullneſs.</hi> But her Second Son She calls (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Abel,</hi> that is, <hi>Vanity</hi> and <hi>Unprofitableneſs.</hi> By which diverſity of <hi>Names</hi> evidently appears a diverſity of af<g ref="char:EOLhyphen"/>fection in the <hi>Mother,</hi> and it ſhews us the prepoſterous Love of lapſed Mankind, as alſo the ſhallowneſs of our Judgments, in that we oftimes highly eſteem, and eagerly value that <hi>moſt,</hi> which in truth is <hi>worſt,</hi> and make that the object of our choice, which God refuſeth; and commonly place our joy and Contentment in that which proves our greateſt Croſs, and occaſion of Sorrow. Further, this minds us of another Truth, to wit, that innocent good Men in this World, many times (even like <hi>Chriſt</hi> and <hi>Abel</hi> from their Minority) are had in leſs regard, Reputation, and eſteem, then the Wicked and Debauched <hi>Bravado's</hi> of the Age. Thus we find im<g ref="char:EOLhyphen"/>partial
+<pb n="3" facs="tcp:49966:6"/>
+               <hi>Ariſtides</hi> Baniſhed for his Virtues,<note place="margin">Aemil. Prob. vid.</note> Pious <hi>Socrates</hi>
+               <note n="(a)" place="margin">
+                  <hi>Aelian.</hi> Hiſt. l. 2. c. 13. p. 33.35.</note> Martyred for his Religion, whileſt Atheiſtical and Scoffing <hi>Ariſtophanes</hi> has the <hi>Eugè</hi> and <hi>Applauſe</hi> of the People. Thus an <hi>Eſau</hi> is preferred before a <hi>Jacob</hi> by his Indulgent Father <hi>Iſaac,</hi> and here, a <hi>Cain</hi> before an <hi>Abel</hi> by his fond Mother <hi>Eva.</hi> Whereas God Almighty looks not at the outward Fea<g ref="char:EOLhyphen"/>tures and Beauty of the Body, but at the inward accompliſh<g ref="char:EOLhyphen"/>ments and Rectitude of Mind, at the Sincerity, Uprightneſs, and Integrity of Heart. And upon this account it was (as <hi>Juſtin Martyr</hi> well expreſſeth it) that God rather accepted of <hi>Abel</hi>'s than <hi>Cain</hi>'s Offering, <hi>Scil;</hi> Becauſe <hi>Abel</hi> gave God of the Beſt, but <hi>Cain</hi> Offered the very worſt of his Flock and Fruits. <hi>Juſtin Martyr,</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi>) And thought to put God off with any ſmall preſent, whereas <hi>Devout Abel</hi> thought nothing too Good, too Rich, or too Coſtly for that God who had been the bountiful Doner and Beſtower of all that he enjoyed. <hi>Cain</hi> was willing to live up<g ref="char:EOLhyphen"/>on, and <hi>(pardon the expreſſion)</hi> to Farme Gods Earth, but very unwilling to pay him the leaſt Moyety, Duty or Tyth juſtly due for the ſame. And therefore God (the ſearcher of Hearts) does moſt righteouſly reject <hi>Cain</hi>'s Perſon and Obla<g ref="char:EOLhyphen"/>tion, the which unexpected accident <hi>Cain</hi> enviouſly obſerv<g ref="char:EOLhyphen"/>ing, does immediately boyl with anger, and ſwell with in<g ref="char:EOLhyphen"/>dignation, for the Context, <hi>v.</hi> 5. aſſures us, that <hi>Cain</hi> was <hi>exceeding wrath, and his Countenance fell:</hi> Where (by the way) we may again take notice, that Hypocrites (ſuch as was this <hi>Cain</hi>) cannot endure to be called, reputed, or ad<g ref="char:EOLhyphen"/>judged ſuch; no, though they are truly conſcious to them<g ref="char:EOLhyphen"/>ſelves that they are no other; nor are they willing to be ſerv<g ref="char:EOLhyphen"/>ed in their own kind, nay, they will not give God himſelf leave to deal with them according to their own Rule, nor as
+<pb n="4" facs="tcp:49966:7"/>they deſerve, for <hi>Cain</hi> will fret and fume, if his falſe heart, and Hypocritical Sacriſice be detected, and rejected by God. Nor does his Rage ſtop here, but preſently in deſpite and Re<g ref="char:EOLhyphen"/>venge to God (the Diſcoverer of his Hypocriſie) he Plots the Felonious Murther and Slaughter of one of <hi>his</hi> Innocent and chiefeſt Creatures: Nor is he ever ſatisfied, untill he has im<g ref="char:EOLhyphen"/>brued his Hands in his Brothers Vermilion Blood. And this ſhould caution us all not to Retain the leaſt Envy and Malice in our Breaſts againſt any Perſon whatever, but eſpecially not againſt our Brethren, Friends, and Relations, leaſt that, theſe Embers and Sparks break forth at laſt into an unquench<g ref="char:EOLhyphen"/>able Flame. It is an <hi>Ancient</hi> but true ſaying, that <hi>Old An<g ref="char:EOLhyphen"/>ger proves Curſed and irreconcileable Malice.</hi> For <hi>Malice</hi> ſel<g ref="char:EOLhyphen"/>dom gives over until it has effected the ruin and deſtruction of the party it Oppoſes. Wherefore, as the Apoſtle adviſeth, <hi>Let not the Sun go down upon our Wrath,</hi> Epheſ. 4.26. But ſtop we evil beginnings in a Pious Zeal, and prevent we ſuch Malicious Deſigns and purpoſes by a Godly Care. Thus much for the occaſion of theſe Words, <hi>The Lord ſet a Mark upon</hi> Cain.</p>
+            <p n="2">2. <hi>In the next place,</hi> we are to enquire <hi>into the nature of this Mark,</hi> which God affixed upon <hi>Cain,</hi> and truly here we are at a loſs, not having any certain Rule to guide us, the <hi>Holy Scriptures</hi> (for Reaſons beſt known to the <hi>Omni<g ref="char:EOLhyphen"/>ſcient Spirit</hi>) being wholly ſilent in this particular: So that, what we have concerning it, we muſt borrow from Tradition, which at the beſt is but fallible (in as much as 'tis humane:) But yet not to be deſpiſed, but rather owned and reverenced, as long as ſuch Traditions deliver nothing contrary to the revealed Word of God, but are conſiſtent with the ſame, as alſo with the Rule of Faith
+<pb n="5" facs="tcp:49966:7"/>and good manners. This being premiſed, I ſhall give you a brief Account of this <hi>Mark,</hi> as we have it in the beſt and moſt Authentick Writers, for to name the fancies of all <hi>Authors</hi> as to this matter, would be endleſs, and ſome of them fruitleſs, being little elſe but the extravagant fan<g ref="char:EOLhyphen"/>cy, and incredible product of a wild Brain, ſuch as that which the great <hi>Antiquary Selden</hi> mentions in his <hi>Syne<g ref="char:EOLhyphen"/>dria veterum Hebraeorum,</hi> when ſpeaking of <hi>Adams</hi> puniſh<g ref="char:EOLhyphen"/>ment for eating the forbidden fruit, he tells us, that it was a Tradition, that <hi>Adam</hi> ſat many years (ſome ſay an 130) before he begat <hi>Seth,</hi> in Water up to his Noſtrils (<hi>in aquâ ſederit uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad nares, ob peccatum illud, quod de Ar<g ref="char:EOLhyphen"/>bare vitae comedendo commiſiſſet</hi> &amp;c.) And from hence roſe many Superſtitious Cuſtoms and Ceremonies uſed by the Jewiſh <hi>PENITENTIARIES,</hi> as <hi>Buxtorf.</hi> has noted to our hand. And 'tis believed by ſome, that <hi>Cain,</hi> being accur<g ref="char:EOLhyphen"/>ſed, Baniſhed, or rather <hi>excommunicated</hi> from the Society of the Church of God, for ſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: which we tran<g ref="char:EOLhyphen"/>ſlate Vagabond and Wanderer, do ſignifie, (as hereafter more at large.) Did in the like manner do Pennance in Water for his notorious Fratricid.</p>
+            <p>But to let paſs this fabulous Story, and to come near<g ref="char:EOLhyphen"/>er to the buſineſs in hand, ſome affix this Mark unto <hi>Cain's</hi> whole Body. Others confine it only to ſome particular part and Member thereof.</p>
+            <p>Of the firſt ſort are thoſe who make this Mark to con<g ref="char:EOLhyphen"/>ſiſt in a Paralytical fearful trembling of all his joynts, Head, Hands and whole Body, eſpecially at the ſight and occur<g ref="char:EOLhyphen"/>rency of any living Creature, whether Man or Beaſt, ſuch being his dreadful reflections upon his horrid Guilt, as that he feared every Creature he met with would prove the Harbinger of Death unto him, notwithſtanding God had
+<pb n="6" facs="tcp:49966:8"/>(to the contrary) paſſed his word and promiſe for his pre<g ref="char:EOLhyphen"/>ſervation: <hi>Fagius</hi> confirms this opinion with the follow<g ref="char:EOLhyphen"/>ing Reaſon, <hi>Scil.</hi> Becauſe God ſaid to <hi>Cain.</hi> v. 12. <hi>Thou ſhalt be a Fugitive</hi> and <hi>Vagabond in the Earth,</hi> that is, as the <hi>Septuagint</hi> render it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>&amp;c. Thou ſhalt go ſobbing</hi> and <hi>ſighing, trembling</hi> and <hi>quaking on the Earth.</hi> Which is the juſt reward of Murther.</p>
+            <p>Others are of opinion, that God did not ſet on <hi>Cain</hi> a<g ref="char:EOLhyphen"/>ny other viſible <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Mark</hi> or <hi>Sign</hi> (for ſo the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Oth,</hi> ſignifies) but what did appear unto the view of every one, in his <hi>Phyſiognomy,</hi> frightful gaſhly look, and dejected countenance. For that his <hi>Countenance</hi> did thus look ſtrange and gaſhly is evident from the queſtion God put to him, when he was a Murtherer only in intention as v. 6. <hi>God ſaid</hi> to <hi>Cain, why art thou wroth? and why is thy Countenance fillen? if thou doeſt well, ſhalt thou not be accepted? and if thou doeſt not well, ſin lyeth at the door:</hi> I know by thy knitted Browe and frowning Countenance, that thou haſt not done well, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; thy mad hel<g ref="char:EOLhyphen"/>liſh look diſcovers the naughtineſs of thy heart; thy very Fore-head ſpeaks thy guilt, therefore tell me the truth, haſt thou not plotted ſome miſchief, ſuch as the Murther<g ref="char:EOLhyphen"/>ing of thy <hi>dear</hi> Brother? Surely, if <hi>Cain</hi> looked thus ruful<g ref="char:EOLhyphen"/>ly diſcontented before he had Slain his innocent Brother, we may be conſident, that after the perpetration of ſo ex<g ref="char:EOLhyphen"/>ecrable a Fact, nothing but Horror and Amazement ſeized upon him; well then might his Fore head wrinckle it ſelf into a Thouſand Furrows, and his whole Face become the Scene; On which you might at the firſt view behold the <hi>Prologue</hi> and <hi>Epilogue,</hi> the firſt and laſt part of ſo direful a Tragedy. It is obſervable that the Hebrew Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> does not only ſignifie <hi>Anger,</hi> but alſo, and that very fre<g ref="char:EOLhyphen"/>quently,
+<pb n="7" facs="tcp:49966:8"/>a <hi>Countenance</hi> and <hi>Face,</hi> and ſometimes an <hi>Angry Countenance,</hi> and next becauſe the Countenance is, <hi>irae in<g ref="char:EOLhyphen"/>dex,</hi> as <hi>Buxtorf.</hi> notes, the Diſcoverer of a Mans inward wrath and <hi>Anger.</hi> And 'tis believed by ſome that <hi>Cain</hi> looked thus, <hi>i. e. furiouſly, angrily,</hi> and <hi>diſcontentedly;</hi> ſo that who ever ſaw him might eaſily conjecture him to be the <hi>Murtherer,</hi> none ever looking with ſuch an unkind <hi>Aſpect</hi> and frightful hugh as did <hi>Cain,</hi> in ſo much as that his <hi>Murther</hi> might be read in his <hi>Eye,</hi> and by the wretch<g ref="char:EOLhyphen"/>ed forlorn caſt thereof, Men might ſoon perceive the late Murtherous Act, bad habit and intent of his Mind: For you know who ſays it, <hi>Animus habitat in oculis,</hi> the Mind dwelleth in the <hi>Eye,</hi> and by the ſeveral Aſpects and Caſts of the <hi>Eye,</hi> many intrinſecal <hi>Vices</hi> (as well as <hi>Virtues</hi>) are commonly diſcerned. In Holy Scripture we read of an <hi>Evil,</hi> as well as of a <hi>good, Eye; Prov.</hi> 23.6. <hi>Eat not the Bread of him that hath an evil Eye.</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) that is, eat not the Bread of him who hath <hi>a Covetous Eye,</hi> and in 2. <hi>Pet.</hi> 2.14. We read of an <hi>Adulterous Eye,</hi> as alſo in <hi>Deut.</hi> 15.9. of an <hi>Envious Eye. Take heed that thine Eye be not evil againſt thy Brother.</hi> And in 1. <hi>Sam.</hi> 18.9. we read of a <hi>Murthering Eye,</hi> for 'tis ſaid, <hi>that Saul eyed David from that day forward. Montanus Arias</hi> renders the words <hi>(malignè aſpiciens) Saul</hi> looked upon <hi>David</hi> with an Evil, Malicious, Murthering Eye: So that, who ever had then beheld <hi>Sauls Eye,</hi> might eaſily have perceived the Murtherous intent of his Mind againſt in<g ref="char:EOLhyphen"/>nocent <hi>David;</hi> and from hence (I mean, from the Evil, Cruel, Envious, and Malicious <hi>Caſt</hi> of the <hi>Eye,</hi>) <hi>Murther<g ref="char:EOLhyphen"/>ers</hi> of old were uſually called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i. e. Men Scur, Grimm, Fierce,</hi> and <hi>Savage</hi> in Countenance. Much of this opinion was <hi>Nehemanides,</hi> only he was groſly miſta<g ref="char:EOLhyphen"/>ken
+<pb n="8" facs="tcp:49966:9"/>in making <hi>Cain</hi>'s <hi>Countenance</hi> to look ſo dreadful and ſo frightful, as that none of Mankind durſt ever after aſ<g ref="char:EOLhyphen"/>ſociate with him; for the contrary appears, in that <hi>Cain</hi> had Society with, and a plentiful iſſue by, a <hi>Wife,</hi> whom (if he did not Marry) he knew after he was thus ſtig<g ref="char:EOLhyphen"/>matized by God. v. 17.</p>
+            <p>But to wave this, the generality of writers conclude,<note place="margin">Vid. Critic.</note> that God did ſet ſome peculiar and viſible <hi>Mark</hi> on <hi>Cain,</hi> and that from hence after Ages (in imitation of the Di<g ref="char:EOLhyphen"/>vinity) did fix <hi>Marks</hi> on perſons, as Characteriſtical notes and ſigns, ſometimes of their <hi>Honor</hi> and <hi>Renown,</hi> other while, of their <hi>Shame</hi> and <hi>Naughtineſs.</hi> And theſe <hi>Marks</hi> were either <hi>Divine, Eccleſiaſtick,</hi> or <hi>Civil; Divine</hi> was that <hi>Mark</hi> which we read of in <hi>Ezek.</hi> 9.4. When God Com<g ref="char:EOLhyphen"/>manded the <hi>Angel to Mark the Fore-heads of all the Men that ſighed and Mourned for the Abominatious that were done in the midſt of the City.</hi>
+            </p>
+            <p>As for <hi>Marks Eccleſiaſtick, Juſtin Martyr</hi> makes mention of them in his 118 Queſtion, where he tells us, it was the Cuſtom of the Church, that the Miniſter (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp;c. with his right hand did ſet a <hi>Mark</hi> on thoſe that were bapti<g ref="char:EOLhyphen"/>zed, but what was this <hi>Mark,</hi> he is not in that place pleaſed to tell us, though 'tis more than probable, that it was the <hi>Sign</hi> of the <hi>Croſs,</hi> which is now in uſe.</p>
+            <p>
+               <hi>Civil Marks</hi> were ſuch as the Supream Authority did affix unto Men, either as Demonſtrations of their <hi>Worth</hi> and <hi>Renown,</hi> or elſe of their <hi>Guilt</hi> and <hi>Puniſhment,</hi> and theſe latter had commonly a mixture of juſtice and Mercy, they being inflicted not only as <hi>Signs</hi> of puniſhment, but alſo as <hi>Marks</hi> of favor, and of <hi>Reprieve</hi> from that Death which
+<pb n="9" facs="tcp:49966:9"/>thoſe Malefactors by their Capital Crimes had juſtly de<g ref="char:EOLhyphen"/>ſerved, but were for certain wiſe politick Reaſons Repriev<g ref="char:EOLhyphen"/>ed, however <hi>Branded</hi> for <hi>Peccants.</hi> Of this nature was both the <hi>Graecian</hi> and <hi>Roman Mark</hi> with which they were wont to <hi>Stigmatize</hi> Capital Malefactors, and uſually they ſet either <hi>Theta</hi> or the <hi>firſt Letter</hi> of the Malefactors <hi>name:</hi> In like manner 'tis thought by ſome that <hi>Cain</hi> was Mark<g ref="char:EOLhyphen"/>ed in the Fore-head with (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Coph,</hi> the firſt Letter of his Name. And it is probable from hence the <hi>Romans</hi> borrowed their Cuſtom of ſetting the Letter C: (which is equivalent with the Hebrew Letter <hi>Coph</hi>) on the Fore-heads of Notorious Tranſgreſſors: For with them (I mean the <hi>Romans</hi>), was frequently tearmed <hi>Litera Condemna<g ref="char:EOLhyphen"/>tionis,</hi> as, <hi>A,</hi> was <hi>Litera Salutaris.</hi>
+               <note place="margin">R. ſin. Antiqu.</note> What ever <hi>Cain</hi>'s <hi>Mark</hi> was, we may be aſſured, it poin<g ref="char:EOLhyphen"/>ed out <hi>Gods</hi> Mercy and <hi>Cain</hi>'s guilt, and con<g ref="char:EOLhyphen"/>ſequently did declare his diſgrace and ignominy, like thoſe <hi>Stigmatici</hi> or Malefactors (for the tearms are <hi>Synonimous</hi>) among the <hi>Romans,</hi> whoſe lives indeed were ſpared but yet they were Branded with ſome infamous Letter in the Hand or Fore-head, whence <hi>Pliny</hi> call'd them <hi>Inſcriptos:</hi> and others call'd them <hi>Literatos,</hi> from the Letters ſet upon them, thus the <hi>Athenians</hi> Branded their Enemies (the <hi>Sa<g ref="char:EOLhyphen"/>mii</hi>) when they took them Captive, from whence aroſe the Proverb.</p>
+            <q>Samiis Neminem eſſe Literatiorem.</q>
+            <p>
+               <hi>Rabbi Salomon</hi> (as quoted by <hi>P. Fagius</hi> and other Cri<g ref="char:EOLhyphen"/>ticks) is of opinion that <hi>Cains Mark</hi> was either the firſt Letter of <hi>Jehova</hi> or of his own Name, though others (and they of no ſmall fame) Conclude, that <hi>Cain</hi>'s <hi>Mark</hi> was indeed in his <hi>Fore-head,</hi> and that it reſembled the fi<g ref="char:EOLhyphen"/>gure and aſpect of one of the <hi>Seven Planets,</hi> and that in
+<pb n="10" facs="tcp:49966:10"/>after ages <hi>the Sons of Men</hi> (which were the Poſterity of <hi>Cain</hi>) ſoon became Idolatrous and Worſhipped the Hoaſt of Heaven, to wit, the Sun, Moon and Stars: And they ſo for prevailed as that afterward they tempted the Sons of God, that is, the Seed of <hi>Seth</hi> unto the like Idolatry, For <hi>Acts</hi> 7.43. <hi>Ye,</hi> that is, ye <hi>Jews</hi> the Seed of <hi>Seth, A<g ref="char:EOLhyphen"/>braham</hi> and of <hi>Iſaac, ye have taken up the Tabernacle of</hi> Moloch, and <hi>the</hi> Star <hi>of your God</hi> Remphan, <hi>Figures which ye made to worſhip them</hi> &amp;c. On which place <hi>Occumenius</hi> writes, that this <hi>Remphan</hi> was a Star painted in the <hi>Fore-head</hi> of <hi>Moloch,</hi> and that it was uſual for the Heathens of old thus to paint their Gods. And our <hi>Engliſh Hiſtories</hi> aſſure us, that here in <hi>Great Britain</hi> (whoſe <hi>Radix</hi> ſigni<g ref="char:EOLhyphen"/>fies <hi>to paint,</hi>) about the time of the <hi>Trojan War,</hi> Men were wont to <hi>paint</hi> and <hi>Mark</hi> not only their <hi>Idol-Gods</hi> but them<g ref="char:EOLhyphen"/>ſelves alſo with a <hi>Star</hi> in their Fore-heads. The like we read of the <hi>Phaenicians</hi> and other Nations nearer the place where <hi>Cain</hi> and his Progeny lived, and 'tis probable after Ages did this in honor and in imitation of Old <hi>Cain,</hi> whom Tradition makes to be thus <hi>Stigmatized</hi> and <hi>Mark<g ref="char:EOLhyphen"/>ed,</hi> in the Fore-head, with a <hi>Star:</hi> And thus <hi>Cain</hi>'s poſte<g ref="char:EOLhyphen"/>rity made and accounted that <hi>Mark</hi> a Badge and Emblem of honor, which God inſtituted to be not only a Token of future ſecurity and preſervation, but alſo a ſignal <hi>Mark</hi> of preſent <hi>Guilt,</hi> and of Divine diſpleaſure.</p>
+            <p>There is one opinion more (the moſt probable of all) and it is that which the Learned <hi>Gregory</hi> of <hi>Oxford</hi> men<g ref="char:EOLhyphen"/>tions, to wit, that God did ſet ſome certain <hi>Letter</hi> of the <hi>Hebrew Alphabet</hi> on <hi>Cain:</hi> And this his conjecture is bor<g ref="char:EOLhyphen"/>rowed from that incomparable Critick <hi>Gerundenſis,</hi> who tells us, that the Hebrew word (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Oth,</hi> ſignifies an <hi>Alphabetical Letter,</hi> as well as <hi>ſignum,</hi> a Mark, and that the
+<pb n="11" facs="tcp:49966:10"/>Hebrew Text (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) which we tran<g ref="char:EOLhyphen"/>ſlate, <hi>the Lord ſet a Mark upon Cain,</hi> may as well be read thus, <hi>the Lord ſet a Letter upon</hi> Cain &amp;c. Which Letter he and others think probably to be the Hebrew Letter (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Tau,</hi> which is the firſt Letter of the word (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Teſhu<g ref="char:EOLhyphen"/>vah,</hi> that is, <hi>Repentance,</hi> for God did primarily deſign by this <hi>Mark, Cain</hi>'s <hi>Repentance</hi> and converſion: And it is not to be forgot, that the very ſame Letter (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Tau,</hi> God Commanded the deſtroying Angel to ſet on the Fore-heads of all thoſe good Men who repented, and mourned for the Abominations and Sins committed in the City. For becauſe the above mentioned devout Perſons, did ſeriouſly and after a godly manner, ſorrow and grieve for the Sins of the <hi>Land:</hi> God Almighty when he commiſſioned his <hi>Angel</hi> to Kill and Deſtroy all the ungodly and wicked in the Land, gave to the ſaid Angel a ſpecial Charge firſt to <hi>Mark</hi> with the Letter <hi>Tau,</hi> all thoſe that truly <hi>Repented,</hi> and that were to be preſerved from that common Deſtru<g ref="char:EOLhyphen"/>ction; for <hi>Ezek.</hi> 9.4. what we tranſlate, <hi>ſet a Mark upon the Fore-heads of the Men that ſigh,</hi> &amp;c. May thus be read, as <hi>Junius</hi> obſerves, <hi>&amp;c.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that is,<note place="margin">And Tertulll. ad<g ref="char:EOLhyphen"/>verſus judaeos c. 11. p. 104.10. ſays the ſame, ſuper quos eſt <hi>Tau</hi> ſignum ne ac<g ref="char:EOLhyphen"/>ceſſetitis.</note> 
+               <hi>ſet a</hi> Tau <hi>upon the Fore-heads of the Men that ſigh,</hi> &amp;c. And <hi>Vatablus</hi> quo<g ref="char:EOLhyphen"/>ting the Hebrew <hi>Rabbies,</hi> ſays, they thus read the place, and ſo does <hi>Druſius Tertul<g ref="char:EOLhyphen"/>lian</hi> and <hi>Grotius,</hi> but they do not make this Letter <hi>Tau</hi> to be the firſt Letter of <hi>Teſhuvah</hi> Repen<g ref="char:EOLhyphen"/>tance, but rather of (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Torah,</hi> which ſignifies the <hi>Law,</hi> and then the meaning of the place is this, go ſet a <hi>Tau</hi> on all them who have conſcientiouſly kept (the <hi>Torah</hi>) the Law of God, and have mourned and ſighed for others tranſgreſſing the ſame. After this manner they conceive
+<pb n="12" facs="tcp:49966:11"/>
+               <hi>Cain</hi> was <hi>Marked</hi> in the Fore-head with the Letter Letter <hi>Tau,</hi> which was to put him in mind of Two things. Firſt, of <hi>Torah</hi> the <hi>Law</hi> of God which he had willfully broke, in Murthering his Brother. Secondly, of <hi>Teſhuvah,</hi> His in<g ref="char:EOLhyphen"/>diſpenſable Duty of <hi>Repenting,</hi> and bewailing that his ſo dia<g ref="char:EOLhyphen"/>bolical Act.</p>
+            <p>And thus at large we have indeavored to give you the beſt account (we can) of the Nature of this <hi>Mark</hi> which God ſet upon <hi>Cain.</hi>
+            </p>
+            <p>Thirdly, It follows that we enquire out the end and final Cauſe for which God was pleaſed to ſet a <hi>Mark</hi> on <hi>Cain,</hi> and in all likely hood, Gods end was Two fold, either in reſpect to <hi>Cain</hi> himſelf, or elſe in regard to <hi>Poſterity.</hi>
+            </p>
+            <p>If in reſpect to <hi>Cain,</hi> then it was either a <hi>Mark</hi> of Puniſh<g ref="char:EOLhyphen"/>ment, or (Secondly) a Token of great Favor and Mercy to<g ref="char:EOLhyphen"/>wards him.</p>
+            <p>Firſt, It was a <hi>Mark</hi> of <hi>Puniſhment,</hi> In as much as it ſig<g ref="char:EOLhyphen"/>nified <hi>Cain</hi>'s Baniſhment and Excommunication out of the Glorious preſence of God himſelf, and from the Commu<g ref="char:EOLhyphen"/>nion of his Holy Church. For as it is a great Solace to a Pious and Devout Soul to enjoy God in the Society and Communion of his Church, ſo is it on the other hand a great Judgment to be deprived of the ſame: <hi>Ignatius</hi> in his <hi>Epiſtle</hi> to the <hi>Epheſians,</hi> excellently deſcribes the Priviledges of Church-Fellowſhip, when he ſays, that if the Prayers of One Holy Man (ſuch as <hi>Moſes, David,</hi> or <hi>Jacob</hi>) have been ſo prevalent and powerful with God Almighty as to divert immanent Judgments, and to bring in Perſonal and National Bleſſings, if ſo, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> How much more perſwaſive
+<pb n="13" facs="tcp:49966:11"/>then are the Prayers of the Biſhops and whole Church una<g ref="char:EOLhyphen"/>nimouſly met togerher as in one <hi>Chorus</hi> to Laud and Praiſe God. And what can theſe Univerſal Prayers be, but as a thick cloud of Incenſe Aſcending up from the Altar to the higheſt Heavens, and as the ſweet Harmony and Melodious Conſort of Celeſtial Muſick, ſounding in the Ears of the Di<g ref="char:EOLhyphen"/>vine Goodneſs? And as it is Heaven upon Earth thus to en<g ref="char:EOLhyphen"/>joy the Rayes and Beams of the Glorious Sun of Righteouſ<g ref="char:EOLhyphen"/>neſs, ſhining full bright within the pale and Bounds of his <hi>Church;</hi> ſo on the other hand, it is the greateſt puniſhment imaginable; yea, verily <hi>Hell</hi> upon Earth (though Errone<g ref="char:EOLhyphen"/>ous and Debauched Men do not think ſo) to be deprived of the ſame, and ſwallowed up in worſe than <hi>Cimmerian</hi> Dark<g ref="char:EOLhyphen"/>neſs, to be delivered up to <hi>Satan,</hi> and cut ſhort of the fruiti<g ref="char:EOLhyphen"/>on of God and his Holy Ordinances: This (ſays that Ancient <hi>Father</hi> of the Primitive Church) is one of the greateſt pu<g ref="char:EOLhyphen"/>niſhments <hi>any Man</hi> on this ſide <hi>Hell</hi> is capable of: And ſuch was the puniſhment of Wicked <hi>Cain,</hi> implyed and ſignified in his being <hi>Stigmatized.</hi> Now that <hi>Cain</hi> was thus <hi>Excommu<g ref="char:EOLhyphen"/>nicated</hi> and Baniſhed from the <hi>Church</hi> of God, <hi>Paulus Fagius, Bonfrenus</hi> (as quoted in the <hi>Synopſ. Crit.</hi>) and the Learned <hi>Bochartus</hi> proves.</p>
+            <p>Firſt, from <hi>Gain</hi>'s being a Vagabond and Wanderer upon the Earth: For the word (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) which we Tranſlate Va<g ref="char:EOLhyphen"/>gabond, <hi>Buxtorf</hi> enterprets to ſignifie <hi>Extorrem,</hi> that is, an <hi>Exile,</hi> a man Out-Lawd, one that is deprived of all Law Ec<g ref="char:EOLhyphen"/>cleſiaſtick and Civil, for ſo the <hi>Extorres</hi> were Sentenced, and therefore ſeeing <hi>Cain</hi> was ſuch a one, he muſt neceſſarily be Excommunicated, and abridged of all Church Priviledges and Fellowſhip.</p>
+            <pb n="14" facs="tcp:49966:12"/>
+            <p>Secondly, In that <hi>Cain</hi> is ſaid (in the Verſe immediately following the Text) to go <hi>out from the preſence of the Lord,</hi> &amp;c.<note place="margin">Paulus Fagius.</note> 
+               <hi>Diſceſſit ab co loco ubi Dominus illum convenerat, ubi tum erat Eccleſia &amp; Caetus piorum ad Cultum Dei Confluentium,</hi> &amp;c. The ſumm whereof is this, that <hi>Cain departed from the place where God met him, and where the Church of God at that time was fixed, and went his way into</hi> Nod, that is, into a ſtrange Country, or rather <hi>(in terram Va<g ref="char:EOLhyphen"/>gationis)</hi> into a Land of Baniſhment and Exile, far remote from all Divine Worſhip, Ordinances, and true Religion; And there, in that Land of his Baniſhment, his Sons and Poſterity became Idolatrous and extreamly wicked; and welf they might, being given up to vileneſs of affection, Reprobateneſs of Mind, and being ſhut up in Darkneſs and Spiritual Ignorance, they might ſoon be alienated from the true Church, and pure Worſhip of the ever living God: So then, as ſoon as <hi>Cain</hi> is become a Willful Murtherer, God Baniſhes him out of his Glorious preſence, as alſo de<g ref="char:EOLhyphen"/>bars him from all Communion with the Church of God: From which paſſage of Divine Providence, we may (with the above mentioned Author) learn two ſpecial Truths.</p>
+            <p>Firſt, That, <hi>Malos non eſſe ferendos in Eccleſia,</hi> &amp;c. As ſoon as men are upon ſufficient Grounds diſcovered and proved to be notoriouſly wicked, and enormous in their Actions and Converſations, they then ought to undergo the <hi>Churches Cenſure</hi> in order to their Amendment! And there<g ref="char:EOLhyphen"/>fore as ſoon as <hi>Cain</hi>'s Murther is Revealed and proved, God out of Hatred and Indignation to that his Sin, turns him out of his Favor, and <hi>Churches Communion,</hi> and all becauſe, Virtue and Vice, Light and Darkneſs, <hi>God</hi> and <hi>Belial,</hi> may not cohabit, and dwell together. All care then, is to be
+<pb n="15" facs="tcp:49966:12"/>uſed for the preſerving Gods Church pure and ſpotleſs, without Wrinckle or Blemiſh: For as God Almighty at the Judgment Day will make a Separation between the <hi>Sheep</hi> and the <hi>Goats:</hi> So does he Authorize his <hi>Biſhops, Paſtors,</hi> and <hi>Governors</hi> of the Church <hi>Militant</hi> here upon Earth, to Separate the Notoriouſly <hi>Bad</hi> from the Eminently <hi>Good.</hi> As for <hi>Hypocrites</hi> and ſuch Wicked Men, whoſe <hi>Naughtineſs</hi> can<g ref="char:EOLhyphen"/>not be diſcovered nor proved, they being Masked over with an outward Profeſſion and Form of Religion, and ſo lying undiſcovered, muſt be tolerated in the Church, for they are the <hi>Tares</hi> which will grow up with the <hi>wheat:</hi> But as for all <hi>Cain's</hi> who are openly wicked, whoſe Villanies may be read in their Fore-heads, they are not to be permitted to enjoy ſo tranſcendent a Priviledge as <hi>Church Fellowſhip,</hi> but ought to be preſented in due Courſe of Law.</p>
+            <p>
+               <hi>Secondly,</hi> From hence we may be informed of the many Dangers Ghoſtly and Bodily all <hi>Excommunicated</hi> Perſons are expoſed unto: <hi>(Quantis in periculis verſentur illi, &amp; quàm expoſiti ſint Satanae &amp; omnibus Malis, Qui extra Eccleſiam ſunt conſtituti?</hi> &amp;c.</p>
+            <p>A Wicked Man <hi>Excommunicated,</hi> like <hi>Cain,</hi> is from un<g ref="char:EOLhyphen"/>der the Protection and guard of Divine Providence, he is expoſed to <hi>Mens</hi> Malice, to the <hi>Beaſts</hi> cruelty, and lies o<g ref="char:EOLhyphen"/>pen to all the fiery Darts of <hi>Satans</hi> Temptations. His Sin and Guilt ſubjects him to the vengeance and viols of Gods wrath, and he may well fear that every Creature will take up Arms againſt him, and become the <hi>Executioner</hi> of Gods Anger, and ſo pay unto him the Wages of his ſin, which is <hi>Death;</hi> and that which is worſt of all, he being <hi>Excom<g ref="char:EOLhyphen"/>municated</hi> Gods Church and Favor, is given up unto a <hi>Re<g ref="char:EOLhyphen"/>probate</hi> Mind, and unto all manner of Profaneſs, as was
+<pb n="16" facs="tcp:49966:13"/>
+               <hi>Cain</hi> and his whole <hi>Generation.</hi> But <hi>Secondly,</hi> this <hi>Mark</hi> ſet on <hi>Cain,</hi> was not only for a puniſhment to him as it denoted his rejectment and <hi>Excommunication</hi> out of Gods Church and Favor, but alſo in that it was a perpetual Brand and <hi>Mark</hi> of Infamy and Ignominy ſet upon him on purpoſe to diſcover unto all Perſons his foul fact, his horrid Murther and Guilt: Yea, briefly, it was <hi>as the Hand-writing on the wall,</hi> or as the <hi>Fin<g ref="char:EOLhyphen"/>ger</hi> of God <hi>Pointing</hi> out and declaring to the whole world, <hi>This,</hi>
+               <note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> S. <hi>Cbryſ.</hi> Ho, 19. in <hi>Gen</hi> 3.</note> 
+               <hi>This</hi> is the <hi>Murtherer, This</hi> is <hi>that</hi> curſed <hi>Cain</hi> who ſo maliciouſly ſlew his pious and innocent Brother <hi>Abel.</hi>
+            </p>
+            <p>
+               <hi>As this Mark</hi> of <hi>Cain</hi>'s was for his puniſhment, <hi>ſo like<g ref="char:EOLhyphen"/>wiſe,</hi> was it for a ſpecial <hi>Token</hi> and <hi>Sign</hi> of Gods clemen<g ref="char:EOLhyphen"/>cy and Mercy towards him, <hi>and that firſt,</hi> in as much as it was a <hi>Mark</hi> of <hi>Preſervation,</hi>
+               <note place="margin">St. <hi>Chryl Tom.</hi> 3. in <hi>Pſal.</hi> 144. p. 5.20 c.</note> and the aſſurance of a <hi>Long Life.</hi> God might in his rigor and Juſtice have cut him off, in the very Act of Sin, but (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>!) unfa<g ref="char:EOLhyphen"/>thomable is the depth of Gods love, unconceivable is the immenſity of his Clemency, unſearchable are the Riches of his Mercies towards the Sons of Apoſtolized Man; he ſaves a live when he might juſtly have kill'd, and ſuffers them to tread upon his Earth, whoſe heavy load of guilt and ſin might well have preſſed and ſunked them down to the centre of it. Such is the Superlativeneſs of Gods Benignity, ſuch are the yearnings of his Bowels of Compaſſion towards <hi>Guilty-Cain,</hi> as that he does not only here in the <hi>Text, Reprieve</hi> him from the ſudden <hi>Execution</hi> of the Sentence of a ſpeedy <hi>Death,</hi> according to the Tenor of the Law made againſt <hi>Murther,</hi> but beſtow<g ref="char:EOLhyphen"/>ed alſo <hi>Long life</hi> upon him, which was a <hi>Mercy</hi> ſo great,
+<pb n="17" facs="tcp:49966:13"/>as that 'tis beyond conception and expreſſion.</p>
+            <p>And that <hi>Cain</hi> lived long <hi>(as the premiſes ſpeak)</hi> is an univerſal <hi>Tradition,</hi> and the Sacred Scriptures (thoſe infal<g ref="char:EOLhyphen"/>lible Oracles of Truth) aſſure us that he lived to ſee his <hi>Childrens Children,</hi> it was a general opinion among the <hi>Jews</hi> that <hi>Cain</hi> lived unto the <hi>Seventh Generation:</hi> to this purpoſe, they read the words immediatly before our Text.</p>
+            <p>
+               <hi>Whoſoever Slayeth</hi> Cain, <hi>Vengeance ſhall be taken on him Seven-fold</hi> &amp;c.</p>
+            <p>The <hi>Hebrews</hi> read them thus,</p>
+            <p>
+               <hi>Whoſoever Slayeth</hi> Cain, <hi>at the Seventh Generation Ven<g ref="char:EOLhyphen"/>geance ſhall take hold on him.</hi>
+            </p>
+            <p>And thus <hi>they</hi> make the words prophetical of <hi>Cain</hi>'s liv<g ref="char:EOLhyphen"/>ing unto the Seventh Generation, and of his being Kill'd in that Generation, and who ever ſhould then Kill him ſhould be ſeverely puniſhed. The ſame Tradition makes <hi>Lamech</hi> to be Author of <hi>Cain</hi>'s Death. For whileſt he was lying ſolitary in the Woods upon the Ground, <hi>Lamech</hi> (an Hunter) miſtaking him for a wild Beaſt Shot, and killed him; for which Fact, <hi>Lamech</hi>'s two Wives <hi>Adah</hi> and <hi>Zil<g ref="char:EOLhyphen"/>lah</hi> (v. 23. of this Chapter) would no longer live with him, but endeavored a <hi>Divorcement</hi> from him, he being a <hi>Murtherer:</hi> Wherefore <hi>Lamech</hi> makes his juſt defence, and vindicates himſelf, and takes off their Accuſation of <hi>Wilful Murther,</hi> alledging that he ſlew the <hi>Man Cain</hi> a<g ref="char:EOLhyphen"/>gainſt his will, unawares; otherwiſe he had not done it; and therefore, if God did permit <hi>Cain</hi> (a willful and ma<g ref="char:EOLhyphen"/>licious <hi>Murtherer</hi>) to live ſo long as to the <hi>Seventh Ge<g ref="char:EOLhyphen"/>neration, he</hi> did not queſtion, but God would ſuffer <hi>Lamech</hi> (who had at the worſt committed only <hi>Man-ſlaughter</hi> un<g ref="char:EOLhyphen"/>awares by mere <hi>caſualty</hi>) to live not only <hi>unto ſeven,</hi>
+               <pb n="18" facs="tcp:49966:14"/>but alſo unto <hi>Seven times ſeven Generations,</hi> that is, unto a far greater number of years, then did <hi>Cain. St. Chry<g ref="char:EOLhyphen"/>ſoſtome</hi> is of opinion that <hi>Lamech</hi> was a very good and juſt man,<note place="margin">St. <hi>Chryſoſt.</hi> in <hi>Gen.</hi> 4. Hem. 10.</note> and that becauſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp;c. <hi>a good man is always the firſt ac<g ref="char:EOLhyphen"/>cuſer of himſelf;</hi> For ſuch an one was <hi>Lamech,</hi> who as ſoon as ever he had accidentally Kill'd a man, does not conceal it (as did <hi>Cain</hi>) but ingenuouſly <hi>Confeſſeth</hi> it, and therefore if <hi>Cain</hi> ſound mercy, much more <hi>Lamech.</hi>
+            </p>
+            <p>But to conclude this particular, we will no longer tra<g ref="char:EOLhyphen"/>verſe the above mentioned Tradition, nor diſpute its ve<g ref="char:EOLhyphen"/>rity or falſity, only this we are aſſured of, <hi>ſcil.</hi> That <hi>Cain</hi> lived long after the Commiſſion of his deteſtable <hi>Fact,</hi> and the <hi>Signature</hi> on his <hi>Fore-head</hi> was a confirmation and ſeal<g ref="char:EOLhyphen"/>ing of the leaſe of a <hi>Long Life</hi> to him, all which was an undenyable Argument of Gods <hi>Goodneſs</hi> and <hi>Mercy</hi> towards him.</p>
+            <p n="2">2. This <hi>Mark</hi> was a Token of great Mercy, in that God thereby did declare he would not only give <hi>Cain</hi> a longer time to live in, but alſo a longer time to repent in. For by thus delaying his Execution, God primarily aimed at <hi>Teſhuvah</hi> his ſincere <hi>Repentance</hi> and converſion, expecting that now he ſhould redeem <hi>time,</hi> expiate and waſh out (as much as in him lay) the ſtain of his <hi>Blood-guiltineſs</hi> in the Tears of Godly ſorrow, of unfeigned Contrition and hear<g ref="char:EOLhyphen"/>ty <hi>Repentance:</hi> It being an unexpreſſible Mercy to have a <hi>Moment</hi> of time to repent in, and to ſue for a <hi>pardon;</hi> but God be praiſed, this was <hi>Cain</hi>'s good hap; whereas many (like <hi>Zimri</hi> and <hi>Cozbi</hi>) are cut off by the Hand of Juſtice in the very <hi>Inſtant,</hi> and <hi>Act,</hi> of ſin.</p>
+            <pb n="19" facs="tcp:49966:14"/>
+            <p>Thus far we have heard how this <hi>Mark</hi> concerned <hi>Cain</hi>'s own perſon.</p>
+            <p>
+               <hi>It follows,</hi> that we enquire wherein it concerns <hi>us,</hi> and <hi>All men.</hi> The which it does, <hi>In as much</hi> as it is a <hi>Mark</hi> of <hi>Caution</hi> and <hi>Warning</hi> unto all men, that they do not pre<g ref="char:EOLhyphen"/>ſume to commit the ſame, or any other, ſin;<note place="margin">St. <hi>Chryſoſ.</hi> Hom. 19. in <hi>Gen</hi> 3.</note> leaſt God viſit the ſins of the <hi>Fathers upon the Third and Fourth Generation of them that hate him, and that will not keep his Commandments.</hi> And although <hi>Cain</hi> found Mercy, yet it is a great queſti<g ref="char:EOLhyphen"/>on whether <hi>any</hi> who ſhall dare preſumptuouſly to commit the <hi>like Tranſgreſſion</hi> ſhall find the leaſt Mercy, and that becauſe, <hi>poſteriorum peccata ſemper ſunt graviora, ſecond ſins</hi> are always the <hi>worſt,</hi> not only in their Nature, but alſo in their dreadful conſequences and effects.</p>
+            <p n="2">2. <hi>This was</hi> a <hi>Mark</hi> of <hi>Inſtruction</hi> unto others, that they ſhould not without ſpecial Commiſſion from God and <hi>law<g ref="char:EOLhyphen"/>ful Authority</hi> Kill any Man, no though he, were <hi>a Cain, a Murtherer,</hi> and this is St. <hi>Chryſoſtomes</hi> note on the place, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. <hi>Seeing all Vengeance</hi> belongs unto God and unto his <hi>Vice-Gerents, i. e.</hi> the Higher Powers upon Earth, it is not lawful for any private Man what ever to take upon him the Executing of the Law, nor to Kill any Man though never ſo criminal without a particular <hi>Warrant</hi> from <hi>lawful Authority.</hi> (<hi>Non licere privato cui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vel pa<g ref="char:EOLhyphen"/>ricidam occidere,</hi> &amp;c.) It being<note n="(a)" place="margin">
+                  <hi>Grot</hi> de ju<g ref="char:EOLhyphen"/>re belli &amp; pacis.</note> contrary to the very <hi>Law</hi> of <hi>Nature</hi> for one perſon-to Kill another though he be never ſo <hi>Peccant:</hi> And although we read of pri<g ref="char:EOLhyphen"/>vate perſons Killing of others, as of <hi>Ehuds</hi> ſtabbing of <hi>Egglon,</hi> and of <hi>Phine as</hi> his running thorow <hi>Zimri</hi> and <hi>Cozbi,</hi> yet <hi>they</hi> either had a <hi>ſpecial command</hi> from God, or were <hi>commiſſioned</hi> by Lawful Authority, to do the ſame.</p>
+            <div type="part">
+               <pb n="20" facs="tcp:49966:15"/>
+               <head>THE PARALLEL, OR K. Charles the I. HIS MARTYRDOM.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Aving done with the <hi>Text,</hi> and its <hi>Con<g ref="char:EOLhyphen"/>text:</hi> It is requiſite, that we make Ap<g ref="char:EOLhyphen"/>plication of the Premiſes, as far as they concern the Solemnity <hi>of the Day:</hi>
+               </p>
+               <p>And to this purpoſe, we will briefly run <hi>The Parallel</hi> between them.</p>
+               <p>And conſider, That, <hi>As, in the Context,</hi> We have an Holy and Innocent <hi>Abel;</hi> who is, in Sacred Writ, ſtyled, <hi>The Beloved,</hi> or <hi>Accepted</hi> of <hi>God,</hi> as alſo, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the <hi>Juſt</hi> and <hi>Righteous Man,</hi> Heb. 11.4.</p>
+               <p>
+                  <hi>So, in the Day,</hi> we have a Pious and Religious <hi>CHARLES;</hi> the Etymologie of whoſe very <hi>Name,</hi> if taken from the <hi>Latin</hi> and <hi>Hebrew,</hi> ſpeaks him to be <hi>Charus-El,</hi> one <hi>Dear to,</hi> and <hi>Beloved of God:</hi> Or, if taken from the <hi>Greek,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, one al<g ref="char:EOLhyphen"/>ways <hi>wiſhing his People joy and happineſs:</hi> Or elſe, from <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<pb n="21" facs="tcp:49966:15"/>one that ever was <hi>the Grace,</hi> and <hi>Glory of his People:</hi> And which is infinitely more, he was, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>The Anointed of God,</hi> and repreſented the Divine Majeſty it ſelf. And further, that he was like <hi>Ahel</hi> alſo, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>The Juſt and Righteous Man,</hi> is evident in that, rather than he would be unjuſt and unfaithful to his Truſt, he choſe to exchange a Corruptible Crown on Earth, for an Immarceſſible One in Glory, and rather than he would wound his own Conſcience, or witting<g ref="char:EOLhyphen"/>ly wrong and injure his People by betraying their Rights and Priviledges, he choſe Death before Life, and reſolved to part with all the endearments of this Life, though attended with never ſo great an affluence of Worldly Honor and Pleaſure, then to forfeit his Intereſt in Heaven.</p>
+               <p>And, <hi>as in the Context,</hi> Divine Providence declared, that <hi>Virtue</hi> and <hi>Goodneſs</hi> being <hi>(Caelitùs Natae) Heaven born,</hi> are no proper Inhabitants of this lower ſinful World; But, <hi>Aſtraea</hi> like, are Commiſſioned only for a while to View it, and then to withdraw behind the Canopy; being the proper place of their Reſidence was the glorious and higheſt Heavens. And therefore, God, in order to the Exaltation of his Devout Ser<g ref="char:EOLhyphen"/>vant <hi>Abel,</hi> unto his promiſed Manſion of ever laſting keſt, did permit wicked and envious <hi>Cain</hi> to give him an <hi>Exit</hi> hence, by treacherouſly and forcibly diſlodging his Immortal Soul out of its Terreſtrial and Fleſhly Tabernacle.</p>
+               <p>
+                  <hi>So in the Day,</hi> The All-wiſe God, who ſuperintends all Af<g ref="char:EOLhyphen"/>fairs and Tranſactions, was pleaſed, as on this Day, to looſen the Reins of Government, and to give Liberty unto Licen<g ref="char:EOLhyphen"/>tious Wicked Men, <hi>Sons</hi> of <hi>Belial,</hi> to vent their Spleen and Malice, in Aſſaſſinating the Sacred Perſon of our Dread So<g ref="char:EOLhyphen"/>veraign <hi>King CHARLES the 1.</hi> (who was too good to Aſſociate any longer with ſinful Mortals) that ſo he might the ſooner be Tranſlated from theſe inferiour Regions of
+<pb n="22" facs="tcp:49966:16"/>Sin and Miſery, unto a perfect ſtate of endleſs Bliſs and Happineſs.</p>
+               <p>
+                  <hi>In the Text,</hi> You have a Notorious and Aecurſed <hi>Fratricide.</hi>
+               </p>
+               <p>
+                  <hi>In the Day,</hi> A moſt Malicious and Pernicious <hi>Regicide.</hi>
+               </p>
+               <p>
+                  <hi>In the Former,</hi> You have the true Cauſe of <hi>Abels</hi> Death and Murther, <hi>to wit,</hi> his <hi>hearty Devotion,</hi> and <hi>ſincere Piety</hi> to<g ref="char:EOLhyphen"/>wards God. 1 <hi>John</hi> c. 3. v. 12.</p>
+               <p>
+                  <hi>In this Latter,</hi> You have the Chief (if not the only) occa<g ref="char:EOLhyphen"/>ſion of <hi>King CHARLES</hi> his being ſo Barbarcuſly and Cruelly Murdered, <hi>to be</hi> His Pious and <hi>Heroick Reſolution,</hi> to maintain the True <hi>Proteſtant Religion,</hi> in which he had been Educated and brought up; <hi>which</hi> highly <hi>incenſed</hi> the <hi>Papiſts:</hi> As alſo, his unalterable <hi>Reſolution,</hi> to preſerve inviolably the wholſome <hi>Laws</hi> of the <hi>Realm;</hi> together with the <hi>just Rights</hi> and <hi>Priviledges</hi> of the <hi>Epiſcopal-Proteſtant Church; which hugely enflamed the Diſſenters,</hi> and made them miſcall his firm Per<g ref="char:EOLhyphen"/>ſeverance in true Virtue and Honeſty, a <hi>Stubborneſs</hi> of Will, and a Pertinacious <hi>Obſtinacy:</hi> This was the prime Cauſe, for which <hi>Jeſuitical Papiſts,</hi> and <hi>Deluded, Furious Diſſenters,</hi> ſo unanimouſly Conſpired the Ruin of that ſo excellent a Prince.</p>
+               <p>And therefore, <hi>as Abel muſt die;</hi> becauſe he would not (like <hi>Cain</hi>) diſſemble with, nor be falſe to his Maker,<note place="margin">1 <hi>John</hi> c. 3. v. 12.</note> as St. <hi>John</hi> informs us, in the fore-mention<g ref="char:EOLhyphen"/>ed Epiſtle.</p>
+               <p>
+                  <hi>So muſt King CHARLES die,</hi> not by the hand of <hi>Juſtice,</hi> but of <hi>Treachery,</hi> and all <hi>Becauſe,</hi> he would not be perjured in violating his <hi>Coronation Oath,</hi> nor become <hi>Fediſragous</hi> and falſe to <hi>God</hi> and his <hi>Country.</hi>
+               </p>
+               <p>And, <hi>as faithful Abel</hi> would not (to ſave his Life) ſwerve from the <hi>Rule</hi> of Righteouſneſs, nor from the <hi>Rubrick</hi> of Gods Word and Command, nor would he <hi>Innovate</hi> by offer<g ref="char:EOLhyphen"/>ing
+<pb n="23" facs="tcp:49966:16"/>up falſe <hi>Fire</hi> and <hi>Incenſe</hi> upon the Holy Altar, nor would he preſent <hi>God</hi> with the <hi>Sacrifices of Fools;</hi> but gave him the beſt of his <hi>Flock,</hi> and did <hi>Worſhip him in Spirit and in Truth,</hi> and did maintain the Orthodox Religion in its Power and Purity, and for ſo doing, both His Perſon and Oblation found Acceptance with the <hi>Alenighty:</hi> Whereas on the other hand, irreligious <hi>Cain</hi> valued not the Laws of his Maker, whether Civil or Eccleſiaſtick, nor did he care to obſerve that <hi>Form</hi> and <hi>Mode</hi> of Divine Worſhip, which God had preſcribed. But plaid the abominable <hi>Hypocrite,</hi> putting the <hi>Allmighty</hi> off with a little <hi>Lip-Service,</hi> and outward Formality; for which Diſſimulation His Perſon and Oblation was deſervedly rejected by God. And <hi>Cain</hi> being thus rejected, does imme<g ref="char:EOLhyphen"/>diately revenge himſelf upon his Innocent Brother. For his Breaſt boyling with Choler and Anger, his Heart ſwelling with Envy and Malice againſt <hi>Abel;</hi> he does without farther Deliberation, not only Plot and Contrive, but alſo unhappily accompliſh and effect the Murthering of him.</p>
+               <p>As thus, <hi>Abel in the Context,</hi>
+               </p>
+               <p>
+                  <hi>So King CHARLES in the Day,</hi> is moſt Inhumanely Deſtroyed and Murthered, for his conſtant maintaining the True Reformed Religion, the eſtabliſhed <hi>Epiſcopal Government</hi> of the <hi>Church</hi> of <hi>England,</hi> the Righteous and Equitable Laws of the Kingdom. So that, once again, with Tears and grief of Heart, let us ſay it, Holy <hi>CHARLES</hi> was Murthered for his Piety and Faithfulneſs towards God; for his Zeal to<g ref="char:EOLhyphen"/>wards the <hi>Proteſtant</hi> Church, in defending her Doctrine and Diſcipline, her Rites and Government, in oppoſition unto all <hi>Jeſuitical, Factious Innovators;</hi> witneſs his Learned Diſpute with that Incomparable Scholar, the Old <hi>Earl</hi> of <hi>Worceſter.</hi>
+               </p>
+               <p>For, here we muſt premiſe, that if <hi>King CHARLES</hi> would have yielded unto the unreaſonable and unconſcionable De<g ref="char:EOLhyphen"/>mands
+<pb n="24" facs="tcp:49966:17"/>of his Enemies both <hi>Papiſts</hi> and <hi>Diſſenters,</hi> who joynt<g ref="char:EOLhyphen"/>ly deſired an Abolition of the known and ratified Laws of the Realm, as alſo, an <hi>utter Extirpation</hi> of the eſtabliſhed Govern<g ref="char:EOLhyphen"/>ment of the Church, and <hi>the Introduction</hi> of either the <hi>old Su<g ref="char:EOLhyphen"/>perſtitious Mode</hi> of <hi>Rome,</hi> or the <hi>new fangled Mode</hi> and <hi>Form</hi> of <hi>Geneva,</hi> in Divine Worſhip: If his Majeſty would have con<g ref="char:EOLhyphen"/>ſented unto theſe their moſt unjuſt Demands, then indeed, he might have lived longer, though not without a galled and wounded heart.</p>
+               <p>But, <hi>God be praiſed!</hi> ſuch was the heighth of his Faith, ſuch the undauntedneſs of his courage, as that, this <hi>Bleſſed Prince</hi> choſe rather to die <hi>Manfully,</hi> yea, <hi>Gloriouſly,</hi> with a good Conſcience, then to live <hi>Ignominiouſly</hi> and <hi>Shamefully,</hi> with the ſtain and black ſpot of Guilt upon his Fore-head</p>
+               <p>And, <hi>as,</hi> Righteouſneſs and juſtice towards God and Man had been the driſt and deſign of all his Actions, <hi>ſo,</hi> eternal Glory and happineſs for himſelf, was the ultimate end of all his Duſires and enterpriſes. And therefore, as he had not failed in the former, ſo, that he might not miſs of the-latter, he does moſt meekly and patiently ſubmit to the cruel ſtroke of an unjuſt Death, and dies a <hi>Martyr</hi> for the <hi>Reformed Pro<g ref="char:EOLhyphen"/>teſtant Religion,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> a <hi>Defender</hi> of the <hi>Proteſtant Faith,</hi> a <hi>patron</hi> of the <hi>Epiſcopal-Proteſtant Church.</hi>
+               </p>
+               <p>But to proceed in the <hi>Parallel;</hi>
+               </p>
+               <p>
+                  <hi>As Abel</hi> was Murthered (according to Tradition) in his own Field, upon his own Ground; and that, not clarcarly, or privately, in a <hi>Cellar,</hi> nor covertly in a <hi>Bed:</hi> But, Auda<g ref="char:EOLhyphen"/>ciouſly in the <hi>open Field,</hi> in the full view of Heaven and Earth, which cirenmſtance extreamly argued the <hi>Brazen-Fore-head,</hi> the Monſtrous <hi>Impudency</hi> of <hi>Cain</hi> the Murderer.</p>
+               <p>So, <hi>King CHARLES</hi> was perſidiouſly Murthered and ſlain, not in a Forreign Country, nor in another Mans Territories,
+<pb n="25" facs="tcp:49966:17"/>but upon his own proper Ground; at his very own <hi>Pallace Gate.</hi> Nor was this done in a <hi>By-Corner</hi> of the <hi>Gate,</hi> privately or ob<g ref="char:EOLhyphen"/>ſcurely, but in the ſight of Thouſands. For now, the Con<g ref="char:EOLhyphen"/>ſpirators were ſo hardened in wickedneſs, and were grown ſo bold and confident, as that, they deſired no cloak to cover their Villany, and therefore they, now ſcorning to aſſault His <hi>Roy<g ref="char:EOLhyphen"/>al Perſon,</hi> ſneakingly, in an inner Chamber, as <hi>Ehud</hi> did <hi>Fg<g ref="char:EOLhyphen"/>glon,</hi> or in a Bed, as <hi>Hazael</hi> did <hi>Benhadad,</hi> do, with a moſt prodigious Audacity, erect a Stage and Scaff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld under the o<g ref="char:EOLhyphen"/>pen <hi>Canopie</hi> of the Heavens, on which they Act this Black and Horrid <hi>Tragedy,</hi> in the eye and view of the whole World.</p>
+               <p>And, <hi>as in the Text,</hi> God ſet a <hi>Mark</hi> upon <hi>Cain,</hi> which <hi>Mark</hi> was a token of the Divine <hi>Mercy</hi> and <hi>Juſtice,</hi> of the Di<g ref="char:EOLhyphen"/>vine <hi>Clemency</hi> and <hi>Indigation.</hi>
+               </p>
+               <p>
+                  <hi>Firſt,</hi> It was a Mark of <hi>Favor</hi> and <hi>Mercy,</hi> for thereby <hi>God</hi> did aſſure <hi>Cain,</hi> that although his Capital and unpardonable Crime, deſerved preſent Death, yet he ſhould not out of hand die, but have a <hi>Reprieve,</hi> and ſhould live many, yea, hundreds of years; and accordingly <hi>Cain</hi> did live a long tract of time and years after this his horrid Fact and Murther, and did be<g ref="char:EOLhyphen"/>come in the World a very <hi>Great</hi> and <hi>Potent Man,</hi> and made himſelf an abſolute <hi>Prince</hi> and <hi>Monarch.</hi> And as he was the firſt (we read of) who builded a <hi>City,</hi> ſo, he and his poſterity were the firſt that <hi>Lorded</hi> it, and <hi>Tyrannized</hi> in the World.</p>
+               <p>
+                  <hi>So, in the Day,</hi> God ſet a double Mark upon the <hi>Regicides,</hi> one of <hi>Favor</hi> and <hi>Mercy,</hi> the other of <hi>Juſtice</hi> and <hi>Indignation. Of Faver,</hi> in that the hand of the Divine <hi>Nemeſis,</hi> did not pre<g ref="char:EOLhyphen"/>ſently and immediately ſeize upon them according to their deſerts, but benignly ſuffered them to live ſeveral years after the perpetration of their Helliſh and Treaſonable <hi>Murther.</hi>
+               </p>
+               <p>And which is very remarkable, <hi>Many</hi> of them became <hi>great</hi> and <hi>potent;</hi> eſpecially, as you all know, <hi>one</hi> among them
+<pb n="26" facs="tcp:49966:18"/>
+                  <hi>Maſantello like</hi>) exalted himſelf up into the very <hi>Threne,</hi> and became an abiolute <hi>Monarch;</hi> making his own <hi>Will</hi> the Law and Standard of his <hi>Actions.</hi>
+               </p>
+               <p>And further, <hi>as in the Text,</hi> God to ſhew his wonderful <hi>Mercy</hi> and <hi>Clemen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</hi> did ſix a <hi>Mark</hi> upon <hi>Cain,</hi> which pro<g ref="char:EOLhyphen"/>bably was (as you have heard) the Hebrew Letter, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Tau,</hi> the firſt of <hi>Torah,</hi> the <hi>Law,</hi> and the firſt of <hi>Teſhuvah, Repen<g ref="char:EOLhyphen"/>tance,</hi> thereby mumating, that this <hi>Mark</hi> ſhould be his <hi>Me<g ref="char:EOLhyphen"/>mento,</hi> timely and heartily to <hi>Reſent</hi> of his ſin and Murther, by which he had wittingly tranſgreſſed, and broke the indi<g ref="char:EOLhyphen"/>ſpenſable <hi>Law</hi> of God.</p>
+               <p>
+                  <hi>So, in the Day,</hi> God out of tender <hi>Bowels</hi> of <hi>Compaſſion,</hi> ſuſ<g ref="char:EOLhyphen"/>pended and deſerred the Execution of his Vengeance upon the fore mentioned <hi>Delinquents:</hi> Graciouſly adds, unto their Days, many years; hoping, that, as Murthering <hi>Manaſſes</hi> and <hi>David,</hi> ſo they, would at laſt, with a broken and bleeding heart, with a mournful and penitent eye, reflect back upon their unheard of Wickedneſs, and endeavor to waſh away the ſtain and tincture of that their Crimſon ſin in the Tears of godly ſorrow, and of Evangelical <hi>Repentance.</hi>
+               </p>
+               <p>
+                  <hi>Secondly, as in the Text, Cain</hi>'s <hi>Mark</hi> was a Token of the Divine <hi>Juſtice</hi> and <hi>Indignation;</hi> hinting to him, that although his Life for a while was reprieved and ſpared, yet his ſin and Murther was not pardoned: For at laſt, Vengeance found him out, his ſin and guilt at the long run, like a <hi>Blood-hound,</hi> as a <hi>Lyon skulking</hi> in the <hi>Highway</hi> ſeized upon him, for ſo the Word, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Gen.</hi> 4.7. Signifies; at laſt the vindicative juſtice of God over-took him.</p>
+               <p>
+                  <hi>So, in the Day:</hi> Although the <hi>Divine Goodneſs</hi> gave the a<g ref="char:EOLhyphen"/>bove mentioned <hi>Malefactors</hi> a long ſpace of time to live, and Repent, in, yet that <hi>Forbearance</hi> and <hi>Indulgence</hi> did not declare them <hi>pardoned</hi> and <hi>abſolved:</hi> For, at laſt, their ſin found them
+<pb n="27" facs="tcp:49966:18"/>out, the impartial hand of <hi>juſtice</hi> laid hold upon them, and brought them all to condign puniſhment. For, the <hi>Court</hi> of <hi>Judicatory,</hi> after a fair and legal <hi>Tryal,</hi> gave the <hi>Sentence</hi> of <hi>Death</hi> upon them.</p>
+               <p>And <hi>as Cain, ſo, many of them,</hi> had a <hi>Reprieve</hi> after <hi>Sentence:</hi> For, ſuch was the unparalel'd <hi>Clemency</hi> of our preſent <hi>Leige Lord</hi> and <hi>Sovereign CHARLES</hi> the <hi>ſecond,</hi> as that ſeveral of the <hi>Regicides</hi> had the Execution of their fatal <hi>Sentence</hi> ſuſpended, and ſome of them <hi>are alive</hi> unto this very Day:</p>
+               <p>But to conclude.</p>
+               <p>
+                  <hi>As Cain</hi>'s <hi>Mark</hi> ſpake two things unto the Spectators and ſtanders by, to wit,</p>
+               <p>
+                  <hi>Firſt,</hi> That they and all perſons which ſaw <hi>Cain,</hi> ſhould mourn and pray for him, ſhould bewail that his ſo great and ſo lamentable a <hi>Fall.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> that his miſcarriage ſhould caution them and all men from ever committing preſumptuouſly the ſame, or any other, Sin:</p>
+               <p>
+                  <hi>So, in the Day,</hi> two Duties are plainly hinted to us.</p>
+               <p>
+                  <hi>Firſt,</hi> That we all <hi>hang <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> harps</hi> and <hi>Muſical Inſtruments up<g ref="char:EOLhyphen"/>on the Willowes,</hi> and <hi>lay our hands upon our Mouths, and our Mouthes in the duſt,</hi> Lament and Mourn for the deteſtable wick<g ref="char:EOLhyphen"/>edneſs and <hi>Murder</hi> of the <hi>Day.</hi> And pray <hi>Almighty God,</hi> of his infinite Mercy, to forget and forgive the ſame: For other<g ref="char:EOLhyphen"/>wiſe, if we, (<hi>though poſſibly not born in</hi> 48, <hi>yet</hi> if we) ſhould fail in this Duty, we ſhall contract to our ſelves the <hi>Guilt</hi> of the <hi>Day,</hi> and ſhall make our ſelves <hi>Acceſſory</hi> to the <hi>Murther</hi> thereof: For, by the Law of <hi>God</hi> and <hi>Man,</hi> that Man is deem<g ref="char:EOLhyphen"/>ed an <hi>Acceſſory,</hi> who knows of a <hi>Murther,</hi> and does not con<g ref="char:EOLhyphen"/>feſs and diſcover it: Here is plainly a <hi>Murther</hi> committed, yea, the moſt malicious and moſt Barbarous one that ever was (ex<g ref="char:EOLhyphen"/>cept that of <hi>Chriſts.</hi>) And it is as plain and true, that we all
+<pb n="28" facs="tcp:49966:19"/>know of it, But, if we in our hearts perfidiouſly conceal <hi>This Murther,</hi> and will not upon our bended Knees confeſs, and ſe<g ref="char:EOLhyphen"/>riouſly bewail it, before God, we then make our ſelves <hi>co<g ref="char:EOLhyphen"/>plotters</hi> and <hi>partakers</hi> of the Guilt of this days ſin: Wherefore, be we all entreated (of what perſwaſion ſo ever we be in other Matters) herein to Unite, and with one Heart, with one Mouth, to lament the <hi>Wicked</hi> and <hi>Anti-Chriſtian Fact of the Day,</hi> and ſay, <hi>Pſal.</hi> 51.14. <hi>Deliver us from Blood-Guiltineſs, O God, thou God of our Salvation, and our Tongues ſhall ſing aloud of thy Righteouſneſs.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> from hence <hi>(aliena pericula cautos)</hi> be we cau<g ref="char:EOLhyphen"/>tioned not to Split upon the <hi>ſame Rock,</hi> nor to run into <hi>the like,</hi> nor into any <hi>other kind</hi> of <hi>Diſloyalty</hi> whatſoever, leaſt the ſame ſtroke of Vengeance reach us, as did <hi>Thoſe</hi> of the Day. For <hi>Rebellion,</hi> if not timely and humbly confeſſed, if not heart<g ref="char:EOLhyphen"/>ily and ſincerely repented of, never went unpuniſhed: And although ſome <hi>Delinquents</hi> have ended their days in peace up<g ref="char:EOLhyphen"/>on <hi>Earth,</hi> yet Guilt has purſued them beyond the <hi>Grave,</hi> even into the confines of another World, and there is great Rea<g ref="char:EOLhyphen"/>ſon for it, becauſe, <hi>as,</hi> God ſev<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ely puniſhes all Rebellion committed immediatly and directly againſt himſelf, <hi>So,</hi> unleſs he will derogate from his own Glory and Prerogative, he muſt alſo ſeverely puniſh all Diſloyalty and Rebellion againſt his proper <hi>Vice gerent</hi> the <hi>King.</hi> And the Reaſon of the Aſſertion is this, <hi>ſcil.</hi> Becauſe, who ever preſumptuouſly diſobeys the <hi>King</hi> and the <hi>Higher Powers</hi> lawfully ſet over him, in truth and reality, Diſobeys <hi>God himſelf:</hi> For <hi>God</hi> is ſtruck at through the <hi>Loynes</hi> and <hi>Sides</hi> of his <hi>Repreſentative</hi> by the Hand and Sword of Rebellion: And this is no other Doctrine than what St. <hi>Paul</hi> taught the Church of <hi>Rome</hi> to <hi>Practice,</hi> Rom. 13.1. <hi>Let every Soul be ſubject unto the Higher Powers,</hi> for v. 3. <hi>Who<g ref="char:EOLhyphen"/>ſoever reſiſteth the Power, reſiſteth the Ordinance of God;</hi> and
+<pb n="29" facs="tcp:49966:19"/>the Apoſtle enforceth the <hi>Duty</hi> with a cogent Argument tak<g ref="char:EOLhyphen"/>en, <hi>ab incommede,</hi> from the evil and direful conſequence that will certainly enſue upon <hi>Preſumptive Diſobedience to,</hi> and <hi>au<g ref="char:EOLhyphen"/>dacious Reſiſting of,</hi> the Higher Powers, <hi>to wit,</hi> no leſs then utter <hi>Damnation;</hi> for <hi>They that reſiſt, ſhall receive to themſelves Damnation.</hi> v. 2. &amp;c.</p>
+               <p>Q. <hi>If it be asked, how far, and in what things we are to Obey our</hi> King <hi>and</hi> Prince?</p>
+               <p>
+                  <hi>Anſ. In all things,</hi> that are either, <hi>in themſelves Lawful;</hi> or, <hi>in themſelves indifferent before Commanded.</hi>
+               </p>
+               <p>We believe none but <hi>Enthuſiaſts,</hi> and <hi>Anti-Monarchical,</hi> or <hi>Fifth-Monarch-Men,</hi> will deny their Obedience as to things in <hi>themſelves Lawful:</hi> The only difficulty is, as to <hi>things in<g ref="char:EOLhyphen"/>different</hi> before Commanded. For ſome will plead, they have a <hi>Chriſtian Liberty</hi> to Obey, or not to Obey, as their own Reaſon, and private Judgment ſhall direct in things <hi>indiffe<g ref="char:EOLhyphen"/>rent.</hi>
+               </p>
+               <p>As to this Objection, we freely grant the <hi>Aſſertion, to wit,</hi> that we have a <hi>Chriſtian Liberty</hi> in <hi>things indifferent</hi> before Commanded, to do or not to do, <hi>pro re natâ,</hi> as prudence ſhall direct.</p>
+               <p>But the Caſe is altered in our preſent Diſpute; For, <hi>nothing</hi> is any longer <hi>indifferent</hi> to be done, or not to be done, when once <hi>Lawfully Commanded.</hi>
+               </p>
+               <p>If you demand the Reaſon, for which a <hi>thing indifferent</hi> before Commanded, ceaſes any longer to be ſo, after Com<g ref="char:EOLhyphen"/>manded by Lawful Authority, it is this; becauſe otherwiſe, the <hi>Regal Power</hi> and <hi>Prerogative</hi> would be Nullified, and in<g ref="char:EOLhyphen"/>ſtead of it, an Unbounded and Anti-Chriſtian <hi>Libertiſme</hi> would be introduced deſtructive of, and pernicious to all Chriſtian Government and Magiſtracy: which evil to prevent, God has given the <hi>King</hi> and <hi>Supreme Magiſtrate</hi> an abſolute
+<pb n="30" facs="tcp:49966:20"/>Power to make Laws, and to impoſe by Law upon his Sub<g ref="char:EOLhyphen"/>jects not only <hi>things</hi> in <hi>themſelves Lawful,</hi> But alſo <hi>things in<g ref="char:EOLhyphen"/>different,</hi> as in His Royal Wiſdom he ſhall think moſt Con<g ref="char:EOLhyphen"/>ducing to the Glory of God, to the Honor and Preſervation of His own Perſon, and to the Safety and Welfare of the Church and State; <hi>Both which</hi> are (under God) immediately Com<g ref="char:EOLhyphen"/>mitted to His (are and Protection. For otherwiſe, if every private Man had a Power and Liberty in <hi>things indifferent,</hi> to Obey or not to Obey, when lawfully Commanded; then (as was ſaid before) the <hi>Kings Prerogative</hi> in matters Civil and Eccleſiaſtick, would be invaded, and the <hi>King</hi> would ceaſe any longer to be, <hi>the Defender of the Faith:</hi> He would be only <hi>King</hi> in Complement, in Name and Title; but the Quarrel<g ref="char:EOLhyphen"/>ling and Diſputing Subject, will be <hi>King,</hi> in Truth and Reality.</p>
+               <p>And in our apprehenſion, nothing can be more Diametri<g ref="char:EOLhyphen"/>cally oppoſite to <hi>Kingly Government,</hi> and to true <hi>Chriſtianity,</hi> then this <hi>Diſloyal</hi> Principle and Practice of diſobeying the <hi>King</hi> in <hi>things indifferent, when once lawfully Commanded.</hi>
+               </p>
+               <p>We are ſure, <hi>Chriſt</hi> did not Clip the Wings of <hi>Regal Power,</hi> but ſtrictly Commanded his <hi>Diſciples, Apoſtles,</hi> and all Men, to <hi>give unto God</hi> the <hi>things which were Gods,</hi> and to <hi>Caeſar the things which were Caeſars;</hi> and to <hi>ſhow Honor to whom Honor is due;</hi>
+                  <note place="margin">R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 13 7.1 Pet. 2.13.17.</note> 
+                  <hi>Obedience to whom Obedience is due:</hi> And St. <hi>Paul</hi> and St. <hi>Peter</hi> do require our <hi>Obedience,</hi> in all things Lawful and Expedient, <hi>unto Kings, and unto all, that are put in Authority over us, and that,</hi> not <hi>only</hi> for <hi>Wrath,</hi> but for <hi>Conſcience ſake.</hi>
+               </p>
+               <p>Q. <hi>And if you further Query, what you ought to do in caſe the</hi> Higher Powers <hi>ſhould Command your</hi> Obedience, <hi>in</hi> things ab<g ref="char:EOLhyphen"/>ſolntely unlawful?</p>
+               <p>
+                  <hi>Anſ.</hi> In this Caſe, although you muſt not <hi>Actively</hi> do what is Commanded; but you muſt Obey God, rather than Man,
+<pb n="31" facs="tcp:49966:20"/>as did <hi>the Apoſtles. Act.</hi> 4.19. <hi>Stil,</hi> for all this, although you may not <hi>Actively</hi> Obey your Prince, by doing what is Commanded: Yet, you <hi>muſt not rebel,</hi> nor <hi>take up Arms</hi> againſt <hi>your Prince;</hi> but, in this Caſe, you muſt obey <hi>Paſſively,</hi> by patiently and peaceably ſubmitting to what Puniſhment ſoever the <hi>Supreme Magiſtrate</hi> ſhall think fit to inflict upon you: Yea, though it be <hi>Death</hi> it ſelf: For by ſo doing, <hi>(and by ſo doing only)</hi> you will ſuffer, <hi>as</hi> a <hi>good Chriſtian, as</hi> a <hi>Martyr</hi> for the Truth, <hi>as</hi> a <hi>Loyal</hi> and <hi>Obedient Subject</hi> to you Prince: And, if in any caſe, a Frail Creature can, you in this caſe, will, deſerve and merit, a Crown of Glory.</p>
+               <p>
+                  <hi>But, in all other Caſes,</hi> when either a <hi>thing lawful in it ſelf, or, a thing indifferent in it ſelf</hi> is Commanded, then, if you Obey <hi>Paſſively,</hi> and not <hi>Actively,</hi> you render your ſelf <hi>Rebel<g ref="char:EOLhyphen"/>lious</hi> to your <hi>Prince:</hi> And, if your <hi>Paſſive Obedience</hi> ſhould be <hi>unto Death,</hi> then you become a <hi>Self-Murderer,</hi> in that, you wilfully threw away your Life, (which you ought to have preſerved) <hi>by dying,</hi> for Obeying your <hi>King</hi> only <hi>Paſſively,</hi> when in Conſcience you ought to have Obeyed him <hi>Actively.</hi>
+               </p>
+               <p>
+                  <hi>But,</hi> although we take this Freedom to argue with you, yet we hope better things of you, and are perſwaded, that as we have diligently Preached <hi>Loyalty;</hi> ſo, you will, as Conſcienciouſly practice it: And will in your Hearts, in your Words, and in all your Actions, publick and private, expreſs your <hi>Fear of God,</hi> and your <hi>Honour of the King.</hi>
+               </p>
+            </div>
+         </div>
+         <closer>God Save the KING.</closer>
+         <closer>AMEN.</closer>
+      </body>
+   </text>
+</TEI>
